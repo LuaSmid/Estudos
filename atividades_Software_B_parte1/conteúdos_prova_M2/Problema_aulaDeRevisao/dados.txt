@@ -1,0 +1,4 @@
+1,filtro,30.0
+2,pastilha,40.0
+6,oleo,80.0
+3,correia,50.0

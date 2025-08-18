@@ -1,0 +1,12 @@
+Matr05,Tulano,4500.76
+Matr06,Elano,4567.77
+Matr08,Felipe Filho,5000.0
+Matr10,João da Silva,4500.0
+Matr11,Joao Apolinario,7500.0
+Matr12,Silva,6000.0
+Matr13,Luiz,10000.0
+Matr99,Eulano de Souza,4576.99
+Matr101,Beltrano Silva,5500.0
+Mat102,Luiz Carlos,15000.0
+Matr103,Teste,4500.0
+Matr01,Luiz Filho,5500.0
