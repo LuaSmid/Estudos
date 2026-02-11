@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UMC - DESENVOLVIMENTO WEB</title>
+</head>
+<body>
+    <h1>HTML</h1> 
+
+    <p><strong>(Hypertext Markup Language) </strong> é a linguagem de marcação padrão utilizada para criar  estruturar páginas na web.</p>
+    <p>Ele define a estrutura e o conteúdo de uma página como textos, imagens, <em>links</em>, tabelas, formulários e outros elementos.</p>
+
+<!--Isso é um comentário-->
+<hr>
+<h2>Vantagens do HTML: </h2>
+<h3>Facilidade de Uso</h3>
+HTML é uma <u>linguagem de marcação</u> fácil de aprender e utilizar
+<br>
+
+<h3>Compatibilidade Universal:</h3>
+HTML é suportado por todos os navegadores modernos, garantindo que suas páginas sejam acessíveis em qualquer dispositivo.
+<br>
+
+<h3>Estrutura Semântica:</h3>
+Permite criar conteúdo estruturado e significativo, melhorando a acessibilidade e o SEO.
+<br>
+
+<h3>Integração com Outras Tecnologias:</h3>
+Funciona perfeitamente com CSS para estilização e JavaScript para interatividade.
+<br>
+
+<h3>Custo Zero:</h3>
+É uma linguagem <u>gratuita</u> e de código aberto, não requerendo licenças ou custos adicionais.
+
+</body>
+</html>
