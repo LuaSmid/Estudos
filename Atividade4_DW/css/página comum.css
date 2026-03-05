@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    font-family: Arial;
+    background-color: rgba(172, 172, 172, 0.753);
+    background-image: url('../img/galaxia.jpg');
+}
+h1 {
+    font-size: 55px;
+    background: -webkit-linear-gradient(#27495f, #b1b9be);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+p{
+    font-family: arial;
+    font-size: 16px;
+}
+header{
+    background-color: black;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.imagem-conteudo{
+    border-radius: 10px;
+    display: block;
+    margin: 20px auto;
+    max-width: 60%;/*imagem ocupa no máximo 60% da largura do container*/
+    height: auto; /*mantém a proporção da imagem, sem distorcer*/
+    box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2); /*sombra na imagem*/
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /*animação suave*/
+}
+
+/*efeito quando o mouse passa sobre a imagem*/
+.imagem-conteudo:hover {
+    transform: scale(1.05); /*aumenta a imagem em 5% */
+    box-shadow: 0 8px 16px rgb(0, 0, 0, 0.3); /* sombra mais intensa */
+    opacity: 0.9;
+}
+
+figure{
+    text-align: center;
+}
+#imagem-topo{
+    text-align: left;
+    max-width: 200px;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #27495f;
+    text-align: justify;
+    border-radius: 10px; /* cantos arredondados */
+    box-shadow: 0 4px 10px rgb(0, 0, 0, 0.1); /* sombra */
+}
